@@ -11,5 +11,3 @@ This Organisation existed for years now - Its main focus: Analyzing internet dat
 Optimized dashboards, scientific key performance indicators, various different case studies, data based strategy - Establishing a foundation suitable for data driven environments as well as broader use cases.
 
 <br/>
-
-hi (test commit)
