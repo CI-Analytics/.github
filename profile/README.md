@@ -11,3 +11,9 @@ This Organisation existed for years now - Its main focus: Analyzing internet dat
 Optimized dashboards, scientific key performance indicators, various different case studies, data based strategy - Establishing a foundation suitable for data driven environments as well as broader use cases.
 
 <br/>
+
+<h2>🌐 - Visit the Website</h2>
+
+Check out our website at [ci-analytics.org](https://ci-analytics.org)
+
+<br/>
