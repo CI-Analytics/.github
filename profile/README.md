@@ -12,7 +12,7 @@ Our goal is to simplify data analysis and make all processes more transparent. E
 
 <h2>🛠️ - Our Products & Services</h2>
 
-CI-Analytics develops and offers:
+CI-Analytics develops and offers (In progress):
 
 - **Dashboard Applications** with web integration for comprehensive data visualization
 - **Business Simulation Software** for strategic planning
