@@ -11,10 +11,10 @@
 <h3>Core Products & Services</h3>
 <ul>
     <li><strong>Channel Manager:</strong> Desktop platform (Electron/C#) for large-scale YouTube production, scheduling and ROI tracking.</li>
-    <li><strong>Dashboard Applications:</strong> Web-integrated suites for real-time KPI visualization.</li>
+    <li><strong>Dashboard Applications:</strong> Web-integrated suites for real-time KPI visualization and personal data.</li>
     <li><strong>Social Media Analytics:</strong> Strategy-oriented tools for YouTube and platform growth.</li>
     <li><strong>Business Simulation:</strong> Software for strategic planning and predictive modeling.</li>
-    <li><strong>Custom Data Tooling:</strong> Specialized ingestion programs for Minecraft servers and event promotion.</li>
+    <li><strong>Custom Data Tooling:</strong> Specialized ingestion programs for personal data, Minecraft servers and event promotion.</li>
     <li><strong>Consulting:</strong> Technical data-driven strategy development.</li>
 </ul>
 
