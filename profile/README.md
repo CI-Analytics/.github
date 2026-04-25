@@ -31,5 +31,5 @@
 <hr />
 
 <p>
-    Official Website (unfinished): <a href="https://ci-analytics.org">ci-analytics.org</a>
+    Official Website: <a href="https://ci-analytics.org">ci-analytics.org</a>
 </p>
