@@ -3,7 +3,7 @@
 <p>
     <strong>CI-Analytics</strong> is a data operations and strategy organization. 
     We build infrastructure to collect, synchronize, and visualize digital business metrics, 
-    replacing manual workflows with centralized data systems.
+    replacing manual workflows with centralized data systems. (Management Dashboards)
 </p>
 
 <hr />
