@@ -1,35 +1,45 @@
 <h1>CI-Analytics</h1>
 
 <p>
-    <strong>CI-Analytics</strong> is a data operations and strategy organization. 
-    We build infrastructure to collect, synchronize, and visualize digital business metrics, 
-    replacing manual workflows with centralized data systems. (Management Dashboards)
+  <strong>CI-Analytics</strong> combines <strong>Content Initiative</strong> and <strong>Analytics</strong>:
+  we create, develop, scale, distribute and optimize content/projects while using data to continuously improve quality, reach, performance and decision-making.
+</p>
+
+<p>
+  The organization is structured into three core areas:
 </p>
 
 <hr />
 
-<h3>Core Products & Services</h3>
+<h3>Core Areas</h3>
 <ul>
-    <li><strong>Channel Manager:</strong> Desktop platform (Electron/C#) for large-scale YouTube production, scheduling and ROI tracking.</li>
-    <li><strong>Dashboard Applications:</strong> Web-integrated suites for real-time KPI visualization and personal data.</li>
-    <li><strong>Social Media Analytics:</strong> Strategy-oriented tools for YouTube and platform growth.</li>
-    <li><strong>Business Simulation:</strong> Software for strategic planning and predictive modeling.</li>
-    <li><strong>Custom Data Tooling:</strong> Specialized ingestion programs for personal data, Minecraft servers and event promotion.</li>
-    <li><strong>Consulting:</strong> Technical data-driven strategy development.</li>
+  <li>
+    <strong>CI-Channels</strong><br />
+    Main keyword: <strong>Marketing Engineering</strong>.<br />
+    Focus: content development, publishing, distribution and data-driven optimization of channels.
+  </li>
+  <li>
+    <strong>CI-Servers</strong><br />
+    Main focus: <strong>Community Management</strong>, <strong>Data Security</strong>, and <strong>Performance/Gameplay Optimization</strong>.<br />
+    Current scope: primarily game servers — CI builds and manages game server environments.
+  </li>
+  <li>
+    <strong>CI-Software</strong><br />
+    Focus: software for <strong>management</strong>, <strong>analytics</strong>, <strong>overview</strong>, and <strong>data collection</strong>.<br />
+    Purpose: mostly supporting CI-Channels and CI-Servers operations.
+  </li>
 </ul>
 
 <hr />
 
-<h3>Development Roadmap</h3>
-<ul>
-    <li><strong>Performance Optimization:</strong> Transitioning to high-efficiency fluid desktop architectures.</li>
-    <li><strong>Scientific KPIs:</strong> Implementation of standardized metrics for precise measurement.</li>
-    <li><strong>System Integration:</strong> Building modular foundations for broad-scale data environments.</li>
-    <li><strong>Operational Case Studies:</strong> Documenting real-world application of data-driven growth.</li>
-</ul>
+<h3>Operating Principle</h3>
+<p>
+  Software at CI-Analytics is built as an enablement layer, not as an end in itself.
+  It provides the systems needed to centralize workflows, collect reliable data, and improve project outcomes across channels and servers.
+</p>
 
 <hr />
 
 <p>
-    Official Website: <a href="https://ci-analytics.org">ci-analytics.org</a>
+  Official Website: <a href="https://ci-analytics.org">ci-analytics.org</a>
 </p>
